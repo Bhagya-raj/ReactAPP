@@ -1,0 +1,18 @@
+.page-header {
+  margin-bottom: 40px;
+}
+
+.page-header h1{
+  margin: 0;
+  color: #00cad8;
+}
+
+.underline { 
+  text-decoration: underline;
+}
+
+.text-transform {
+  color: #f73a3a;
+  transform: rotate(-35deg);
+  display: inline-block;
+}
